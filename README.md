@@ -4,6 +4,16 @@
 
 ###
 
+<br clear="both">
+
+<h2 align="left">Olá mundo 👋, Sou Vinicius Raphael.</h2>
+
+###
+
+<p align="left">Atualmente estou cursando Desenvolvimento de Sistemas Etec Fernando Prestes</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
   <img width="19" />
@@ -23,6 +33,10 @@
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
 
 ###
 
