@@ -52,7 +52,7 @@
 
 #   Certificações
 
-
+<!-- Ter a porra de um certificado pra por aqui -->
 
 </div>
 </td>
