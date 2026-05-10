@@ -1,10 +1,61 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=364765&reversal=false&section=header&fontAlign=50&textBg=false" />
+<h1 align="center">Hi! I'm Vinicius 👋</h1>  
+
+###
+
 <div align="center">
-  <!--titulo digitando-->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2700&pause=900&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Vinicius;Student+of+systems+development" alt="Digitando">
-  <br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#   Sobre mim
+
+- 🎓 Sou aluno da escola técnica Fernando Prestes Sorocaba/SP
+- 🧩 Interesse em programação voltada ao backend 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vini-campos&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=10&order=3" height="250" alt="streak graph"  />
+</div>
+<td width="50%" valign="top">
+
+#   Tecnologias & Ferramentas
+
+<div align="left">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="35"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="35"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="35"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="35"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  height="35"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="35"/>
+<img width="10"/>
 </div>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+---
 
+#   Certificações
+
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
