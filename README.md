@@ -52,13 +52,14 @@
 
 #   Certificações
 
-<div align="center">
-  <img src="./assets/Skills_Animation_Dark.gif" width="500"/>
-</div>
+<!-- Ter a porra de um certificado pra por aqui -->
 
 </div>
 </td>
 </tr>
 </table>
+<div align="center">
+  <img src="./assets/Skills_Animation_Dark.gif" width="500"/>
+</div>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=135&color=364765&reversal=false&section=footer&fontAlign=50&textBg=false" />
