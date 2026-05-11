@@ -52,7 +52,9 @@
 
 #   Certificações
 
-<!-- Ter a porra de um certificado pra por aqui -->
+<div align="center">
+  <img src="./assets/Skills_Animation_Dark.gif" width="500"/>
+</div>
 
 </div>
 </td>
