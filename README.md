@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=135&color=364765&reversal=false&section=header&fontAlign=50&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=364765&reversal=false&section=header&fontAlign=50&textBg=false" />
 <h1 align="center">Hi! I'm Vinicius 👋</h1>  
 
 ###
@@ -58,8 +58,4 @@
 </td>
 </tr>
 </table>
-<div align="center">
-  <img src="./assets/Skills_Animation_Dark.gif" width="500"/>
 </div>
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=135&color=364765&reversal=false&section=footer&fontAlign=50&textBg=false" />
