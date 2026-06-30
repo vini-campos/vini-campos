@@ -35,10 +35,16 @@
 ## Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vini-campos&show_icons=true&theme=dark&border_radius=10&hide_border=false&locale=en" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-campos&layout=compact&theme=dark&border_radius=10&hide_border=false&locale=en" height="150"/>
-
+  <p align="center">
+    <img
+      src="https://github-readme-stats-delta-ruby-84.vercel.app/api?username=vini-campos&show_icons=true&theme=tokyonight"
+      width="420"
+    />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+      src="https://github-readme-stats-delta-ruby-84.vercel.app/api/top-langs?username=vini-campos&layout=compact&theme=tokyonight"
+      width="320"
+    />
+  </p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=364765&reversal=false&section=footer" />
