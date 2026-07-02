@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Vinicius 👋</h1>
 
 <p align="center">
-  <em>Backend-focused developer — turning ideas into real solutions through clean, purposeful code.</em>
+  <em>Backend-focused developer — turning ideas into real solutions.</em>
 </p>
 
 ---
