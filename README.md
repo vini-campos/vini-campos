@@ -10,8 +10,8 @@
 
 ## About me
 
-- 🎓 Student at **Fernando Prestes** Technical School — Sorocaba/SP, Brazil
-- 🔧 Focused on **backend development**
+- Student at **Fernando Prestes** Technical School — Sorocaba/SP, Brazil
+- Focused on **backend development**
 
 ---
 
