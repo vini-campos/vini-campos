@@ -37,11 +37,11 @@
 <div align="center">
   <p align="center">
     <img
-      src="https://github-readme-stats-delta-ruby-84.vercel.app/api?username=vini-campos&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats-delta-ruby-84.vercel.app/api?username=vini-campos&show_icons=true&theme=tokyonight&cache_seconds=1800"
       width="420"
     />&nbsp;&nbsp;&nbsp;&nbsp;
     <img
-      src="https://github-readme-stats-delta-ruby-84.vercel.app/api/top-langs?username=vini-campos&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats-delta-ruby-84.vercel.app/api/top-langs?username=vini-campos&layout=compact&theme=tokyonight&cache_seconds=1800"
       width="320"
     />
   </p>
