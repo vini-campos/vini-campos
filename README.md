@@ -41,10 +41,13 @@
       width="420"
     />&nbsp;&nbsp;&nbsp;&nbsp;
     <img
-      src="https://github-readme-stats-delta-ruby-84.vercel.app/api/top-langs?username=vini-campos&layout=compact&theme=tokyonight&cache_seconds=1800"
-      width="320"
+      src="https://github-readme-stats-delta-ruby-84.vercel.app/api/top-langs?username=vini-campos&layout=compact&theme=tokyonight&cache_seconds=1800" width="320"
     />
   </p>
+  <p align="center">
+    <img width="80%"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=vini-campos&theme=tokyo-night&hide_border=true&radius=10&area=true" />
+</p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=364765&reversal=false&section=footer" />
