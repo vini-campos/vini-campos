@@ -2,16 +2,12 @@
 
 <h1 align="center">Hi, I'm Vinicius 👋</h1>
 
-<p align="center">
-  <em>Backend-focused developer — turning ideas into real solutions.</em>
-</p>
-
----
-
 ## About me
 
 - Student at **Fernando Prestes** Technical School — Sorocaba/SP, Brazil
 - Focused on **backend development**
+- **web** development
+- **REST APIs**
 
 ---
 
