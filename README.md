@@ -42,12 +42,6 @@
       width="320"
     />
   </p>
-  <p align="center">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=vini-campos&theme=tokyo-night&hide_border=true&radius=10&area=true"
-      width="80%"
-    />
-</p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=364765&reversal=false&section=footer" />
